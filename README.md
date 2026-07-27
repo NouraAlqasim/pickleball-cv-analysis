@@ -3,7 +3,7 @@
 A computer vision pipeline that turns overhead match footage into a movement heatmap
 showing where players actually spend their time on court.
 
-![Heatmap](screenshot.png)
+![Heatmap](heatmap.gif)
 
 ## Pipeline
 
